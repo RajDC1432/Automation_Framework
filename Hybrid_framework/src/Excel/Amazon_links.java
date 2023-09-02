@@ -35,7 +35,7 @@ public class Amazon_links {
 			 cell.setCellValue(att);
 		 }
 		 FileOutputStream fio=new FileOutputStream("./excel/Book2.xlsx");
-		 book.write(fio);
+		// book.write(fio);
 
 	}
 
